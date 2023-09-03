@@ -13,7 +13,7 @@
 <img align=center 
   src="https://komarev.com/ghpvc/?username=suyash-2004&style=flat-square&color=blue"/>
 
-  <h1>
+  <h1 align = center>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
