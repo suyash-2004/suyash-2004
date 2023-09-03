@@ -10,4 +10,5 @@
 </div>
 
 
-<img align=center src="https://komarev.com/ghpvc/?username=suyash-2004&style=flat-square&color=blue" alt=" "/>
+<img align=center 
+  src="https://komarev.com/ghpvc/?username=suyash-2004&style=flat-square&color=blue" alt=" "/>
