@@ -11,7 +11,7 @@
 
 
 <!--- snake -->
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/suyash-2004/suyash-2004/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--h2 without bottom border-->
