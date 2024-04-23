@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👯 I’m looking to collaborate on **Any Kind of Pevelopment Projects**
+- 👯 I’m looking to collaborate on **Any Kind of Development Projects**
 
 - 💬 Ask me about **Android, Firebase, Logic Building**
 
