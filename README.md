@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suyash Singh Bhadouria</h1>
-<h3 align="center">A Passionate FullStack developer from India</h3>
+<h3 align="center">A Passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyash-2004&label=Profile%20views&color=0e75b6&style=flat" alt="suyash-2004" /> </p>
 
