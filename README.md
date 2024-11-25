@@ -5,20 +5,27 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyash-2004" alt="suyash-2004" /></a> </p>
 
-- 🔭 I’m currently working on **PingMeSafe - A Disaster Management Android App**
+- 🌟 I’m currently working on **ShowGo - The Next-Gen Ticket Booking App**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 Current Interese **Android Development**
 
-- 👯 I’m looking to collaborate on **Any Kind of Development Projects**
+- 👯 I’m looking to collaborate on **Any Kind of Android Dev Projects**
 
-- 💬 Ask me about **Android, Firebase, Logic Building**
+- 💬 Ask me about **Android, DSA and Logic Building**
+
+- 💻 Tools that I use **Figma, Android Studio and Sypder**
+
+- 🤖 AI Tools I use **ChatGpt, Perplexity, BlackBox, Claude, Gemini and V0.dev**
+
+- ☁️ Cloud Services I have worked with **Appwrite, Friebase and Google Cloud Console**
 
 - 📫 How to reach me **Suyash096@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J57wMS-hLBkwYOJopcJ6FOerbzQKOt9U/view?usp=drive_link](https://drive.google.com/file/d/1J57wMS-hLBkwYOJopcJ6FOerbzQKOt9U/view?usp=drive_link)
+- 📄 Take a look at my Resume [https://drive.google.com/file/d/17t3zKlFsbhXJwTZ3Lc7Y2kt23ZOwOShU/view?usp=drive_link](https://drive.google.com/file/d/17t3zKlFsbhXJwTZ3Lc7Y2kt23ZOwOShU/view?usp=drive_link)
 
 - ⚡ Fun fact **Confusion is part of Programming**
 
+- 🎙️ Plan B **Music Production**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suyash singh bhadouria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyash singh bhadouria" height="30" width="40" /></a>
