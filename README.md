@@ -1,31 +1,57 @@
-<h1 align="center">Hi 👋, I'm Suyash Singh Bhadouria</h1>
+<h1 align="center">👋 Hi there! I'm Suyash</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyash-2004&label=Profile%20views&color=0e75b6&style=flat" alt="suyash-2004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyash-2004" alt="suyash-2004" /></a> </p>
 
-- 🌟 I’m currently working on **ShowGo - The Next-Gen Ticket Booking App**
+## 🎯 Currently Working On:  
+🚀 **ShowGo** - The Next-Gen Ticket Booking App  
 
-- 🌱 Current Interese **Android Development**
+## 🌱 Current Interests:  
+- 📱 Android Development  
+- 💻 Backend Systems  
+- 🤖 Artificial Intelligence  
 
-- 👯 I’m looking to collaborate on **Any Kind of Android Dev Projects**
+## 🤝 Looking to Collaborate On:  
+- 💡 Innovative Android Projects  
+- 💻 Logic-Driven Systems  
+- 🌟 Open-Source Contributions  
 
-- 💬 Ask me about **Android, DSA and Logic Building**
+## 💬 Ask Me About:  
+- ⚙️ Android Development  
+- 📐 Data Structures & Algorithms  
+- 🧩 Problem-Solving Strategies  
 
-- 💻 Tools that I use **Figma, Android Studio and Sypder**
+## 🛠️ Tech Stack:  
+**Programming Languages:**  
+- Java, Kotlin, Python, SQL, XML, C++, C 
 
-- 🤖 AI Tools I use **ChatGpt, Perplexity, BlackBox, Claude, Gemini and V0.dev**
+**Mobile Development:**  
+- Android Studio, Jetpack Compose, MVVM 
 
-- ☁️ Cloud Services I have worked with **Appwrite, Friebase and Google Cloud Console**
+**Backend Development:**  
+- Appwrite, Firebase, Google Cloud Console REST APIs, SMTP Integration
 
-- 📫 How to reach me **Suyash096@gmail.com**
+## 🛠️ Tools I Use:  
+- 🎨 **Design:** Figma  
+- 📱 **Development:** Android Studio, Spyder  
+- ☁️ **Cloud Services:** Appwrite, Firebase, Google Cloud Console  
 
-- 📄 Take a look at my Resume [https://drive.google.com/file/d/17t3zKlFsbhXJwTZ3Lc7Y2kt23ZOwOShU/view?usp=drive_link](https://drive.google.com/file/d/17t3zKlFsbhXJwTZ3Lc7Y2kt23ZOwOShU/view?usp=drive_link)
+## 🤖 AI Tools I Love:  
+- ChatGPT, Perplexity, BlackBox, Claude, Gemini, V0.dev  
 
-- ⚡ Fun fact **Confusion is part of Programming**
+## 📫 Reach Me At:  
+- 📧 **Email:** [Suyash096@gmail.com](mailto:Suyash096@gmail.com)  
 
-- 🎙️ Plan B **Music Production**
+## 📄 Check Out My Resume:  
+- [**Resume Link**](https://drive.google.com/file/d/17t3zKlFsbhXJwTZ3Lc7Y2kt23ZOwOShU/view?usp=drive_link)  
+
+## ⚡ Fun Fact:  
+Confusion isn't a bug, it's a feature of programming!  
+
+## 🎙️ Plan B:  
+If not coding, you'll find me diving into **Music Production** 🎧 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suyash singh bhadouria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyash singh bhadouria" height="30" width="40" /></a>
