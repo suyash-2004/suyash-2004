@@ -4,54 +4,80 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyash-2004&label=Profile%20views&color=0e75b6&style=flat" alt="suyash-2004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyash-2004" alt="suyash-2004" /></a> </p>
-
-## 🎯 Currently Working On:  
-🚀 **ShowGo** - The Next-Gen Ticket Booking App  
-
-## 🌱 Current Interests:  
-- 📱 Android Development  
-- 💻 Backend Systems  
-- 🤖 Artificial Intelligence  
-
-## 🤝 Looking to Collaborate On:  
-- 💡 Innovative Android Projects  
-- 💻 Logic-Driven Systems  
-- 🌟 Open-Source Contributions  
-
-## 💬 Ask Me About:  
-- ⚙️ Android Development  
-- 📐 Data Structures & Algorithms  
-- 🧩 Problem-Solving Strategies  
-
-## 🛠️ Tech Stack:  
-**Programming Languages:**  
-- Java, Kotlin, Python, SQL, XML, C++, C 
-
-**Mobile Development:**  
-- Android Studio, Jetpack Compose, MVVM 
-
-**Backend Development:**  
-- Appwrite, Firebase, Google Cloud Console REST APIs, SMTP Integration
-
-## 🛠️ Tools I Use:  
-- 🎨 **Design:** Figma  
-- 📱 **Development:** Android Studio, Spyder  
-- ☁️ **Cloud Services:** Appwrite, Firebase, Google Cloud Console  
-
-## 🤖 AI Tools I Love:  
-- ChatGPT, Perplexity, BlackBox, Claude, Gemini, V0.dev  
-
-## 📫 Reach Me At:  
-- 📧 **Email:** [Suyash096@gmail.com](mailto:Suyash096@gmail.com)  
-
-## 📄 Check Out My Resume:  
-- [**Resume Link**](https://drive.google.com/file/d/17t3zKlFsbhXJwTZ3Lc7Y2kt23ZOwOShU/view?usp=drive_link)  
-
-## ⚡ Fun Fact:  
-Confusion isn't a bug, it's a feature of programming!  
-
-## 🎙️ Plan B:  
-If not coding, you'll find me diving into **Music Production** 🎧 
+<table>
+  <tr>
+    <td><h3>🎯 Currently Working On:</h3></td>
+    <td>🚀 <strong>ShowGo</strong> - The Next-Gen Ticket Booking App</td>
+  </tr>
+  <tr>
+    <td><h3>🌱 Current Interests:</h3></td>
+    <td>
+      <ul>
+        <li>📱 Android Development</li>
+        <li>💻 Backend Systems</li>
+        <li>🤖 Artificial Intelligence</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><h3>🤝 Looking to Collaborate On:</h3></td>
+    <td>
+      <ul>
+        <li>💡 Innovative Android Projects</li>
+        <li>💻 Logic-Driven Systems</li>
+        <li>🌟 Open-Source Contributions</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><h3>💬 Ask Me About:</h3></td>
+    <td>
+      <ul>
+        <li>⚙️ Android Development</li>
+        <li>📐 Data Structures & Algorithms</li>
+        <li>🧩 Problem-Solving Strategies</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><h3>🛠️ Tech Stack:</h3></td>
+    <td>
+      <strong>Programming Languages:</strong> Java, Kotlin, Python, SQL, XML, C++, C <br>
+      <strong>Mobile Development:</strong> Android Studio, Jetpack Compose, MVVM <br>
+      <strong>Backend Development:</strong> Appwrite, Firebase, Google Cloud Console, REST APIs, SMTP Integration
+    </td>
+  </tr>
+  <tr>
+    <td><h3>🛠️ Tools I Use:</h3></td>
+    <td>
+      <ul>
+        <li>🎨 <strong>Design:</strong> Figma</li>
+        <li>📱 <strong>Development:</strong> Android Studio, Spyder</li>
+        <li>☁️ <strong>Cloud Services:</strong> Appwrite, Firebase, Google Cloud Console</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><h3>🤖 AI Tools I Love:</h3></td>
+    <td>ChatGPT, Perplexity, BlackBox, Claude, Gemini, V0.dev</td>
+  </tr>
+  <tr>
+    <td><h3>📫 Reach Me At:</h3></td>
+    <td>📧 <a href="mailto:Suyash096@gmail.com">Suyash096@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><h3>📄 Check Out My Resume:</h3></td>
+    <td><a href="https://drive.google.com/file/d/17t3zKlFsbhXJwTZ3Lc7Y2kt23ZOwOShU/view?usp=drive_link"><strong>Resume Link</strong></a></td>
+  </tr>
+  <tr>
+    <td><h3>⚡ Fun Fact:</h3></td>
+    <td>Confusion isn't a bug, it's a feature of programming!</td>
+  </tr>
+  <tr>
+    <td><h3>🎙️ Plan B:</h3></td>
+    <td>If not coding, you'll find me diving into <strong>Music Production</strong> 🎧</td>
+  </tr>
+</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suyash singh bhadouria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyash singh bhadouria" height="30" width="40" /></a>
