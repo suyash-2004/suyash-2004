@@ -115,7 +115,4 @@ If not coding, you'll find me diving into **Music Production** 🎧
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyash-2004&" alt="suyash-2004" /></p>
 
-<h3 align="center">🐍 Contribution Snake</h3>
-<p align="center">
-  <img src="https://github.com/suyash-2004/suyash-2004/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+![snake gif](https://github.com/suyash-2004/suyash-2004/blob/output/github-snake-dark.svg)
