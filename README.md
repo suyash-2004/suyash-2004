@@ -114,3 +114,8 @@ If not coding, you'll find me diving into **Music Production** 🎧
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyash-2004&show_icons=true&locale=en" alt="suyash-2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyash-2004&" alt="suyash-2004" /></p>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <img src="https://github.com/suyash-2004/suyash-2004/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
