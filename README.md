@@ -45,7 +45,7 @@
 - 📧 **Email:** [Suyash096@gmail.com](mailto:Suyash096@gmail.com)  
 
 ## 📄 Check Out My Resume:  
-- [**Resume Link**](https://drive.google.com/file/d/17t3zKlFsbhXJwTZ3Lc7Y2kt23ZOwOShU/view?usp=drive_link)  
+- [**Resume Link**](https://drive.google.com/file/d/1x8KXgYKbrdAOcn7Yl5Lfh7e3RGJOpB6I/view?usp=sharing)  
 
 ## ⚡ Fun Fact:  
 Confusion isn't a bug, it's a feature of programming!  
